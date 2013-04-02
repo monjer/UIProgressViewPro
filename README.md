@@ -8,4 +8,4 @@ IOS UIProgressView basic useage .UIProgressView in IOS , include two different s
      The style of progress view that is used in a toolbar.  
 
 The standard UIProgressView's height can not be changed by default .Here is a [discuss](http://stackoverflow.com/questions/3437564/how-to-increase-height-of-uiprogressview) in the stackoverflow.  
-
+But you can simply override UIProgressView , and do more custom apperance operaions.
